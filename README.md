@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c6/b0/c4/c6b0c4aa8a97d199d95c190fb15ac7c2.gif" width="100%" />
+  <img src="https://media.discordapp.net/attachments/914477228098732083/1343847588067147806/image.png?ex=69138ed8&is=69123d58&hm=0671300ebfce6b6755197d557b36c76947c083de3de8f343ca84622439aa309f&=&format=webp&quality=lossless&width=1874&height=149" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nickole;I'm+22+years+old;I'm+a+Front-End+Developer;Welcome+to+my+profile!🍓" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nickole;I'm+22+years+old;I'm+a+Front-End+Developer;Welcome+to+my+profile!" />
 </p>
 
 
@@ -15,7 +15,7 @@
 </div>
 
 
-### 🍓 My Skills:
+### 🌸 My Skills:
 <div align="center">
 
 <div align="center">
@@ -44,7 +44,7 @@
 
 ---
 
-### 🍓 Where to find me:
+### 🌸 Where to find me:
 <div align="center">
   <a href="https://www.linkedin.com/in/nickole-alves-4ab057369/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-ffb6c1?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -55,5 +55,5 @@
 
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/c6/b0/c4/c6b0c4aa8a97d199d95c190fb15ac7c2.gif" width="100%" />
+  <img src="https://media.discordapp.net/attachments/914477228098732083/1343847588067147806/image.png?ex=69138ed8&is=69123d58&hm=0671300ebfce6b6755197d557b36c76947c083de3de8f343ca84622439aa309f&=&format=webp&quality=lossless&width=1874&height=149" width="100%" />
 </p>
