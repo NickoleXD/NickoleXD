@@ -6,14 +6,9 @@
   <img src="https://readme-typing-svg.herokuapp.com/?color=ff91a4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Nickole;I'm+22+years+old;I'm+a+Front-End+Developer;Welcome+to+my+profile!" />
 </p>
 
-
 ---
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=NickoleXD&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Nickole GitHub Stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NickoleXD&layout=compact&hide_border=true&title_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" />
 </div>
-
 
 ### 🌸 My Skills:
 <div align="center">
@@ -39,7 +34,6 @@
 
 </div>
 
-
 </div>
 
 ---
@@ -52,7 +46,6 @@
 </div>
 
 ---
-
 
 <p align="center">
   <img src="https://media.discordapp.net/attachments/914477228098732083/1343847588067147806/image.png?ex=691cc958&is=691b77d8&hm=917165da95c643464e1f4d2a3d5fb58deceef08208d74f41b19496f92e1470e9&=&format=webp&quality=lossless&width=1874&height=149" width="100%" />
