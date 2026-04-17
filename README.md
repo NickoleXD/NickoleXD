@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/914477228098732083/1481159195733528737/IMG_2591.gif?ex=69c418be&is=69c2c73e&hm=e2f704899f1c6c866c59078c25be274b2651dc24858d16c277260aed803ebbbc&=&width=1860&height=186" />
+  <img src="https://i.pinimg.com/originals/11/cc/0f/11cc0f9be3401dc692c824c5d3c8cb0c.gif" />
 </p>
 
 <p align="center">
@@ -8,7 +8,7 @@
 
 ---
 
-### 🐸 My Skills:
+### ˚˖𓍢ִ໋❀ My Skills:
 <div align="center">
 
 <table>
@@ -32,7 +32,7 @@
 
 ---
 
-### 🐸 Where to find me:
+### ˚˖𓍢ִ໋❀ Where to find me:
 <div align="center">
   <a href="https://www.linkedin.com/in/nickole-alves-4ab057369/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white">
@@ -42,5 +42,5 @@
 ---
 
 <p align="center">
-  <img src="https://media.discordapp.net/attachments/914477228098732083/1481159195733528737/IMG_2591.gif?ex=69c418be&is=69c2c73e&hm=e2f704899f1c6c866c59078c25be274b2651dc24858d16c277260aed803ebbbc&=&width=1860&height=186" />
+  <img src="https://i.pinimg.com/originals/11/cc/0f/11cc0f9be3401dc692c824c5d3c8cb0c.gif"/>
 </p>
