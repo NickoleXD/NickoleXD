@@ -8,7 +8,7 @@
 
 ---
 
-### ˚˖𓍢ִ໋❀ My Skills:
+### 🌸 My Skills:
 <div align="center">
 
 <table>
@@ -32,7 +32,7 @@
 
 ---
 
-### ˚˖𓍢ִ໋❀ Where to find me:
+### 🌸 Where to find me:
 <div align="center">
   <a href="https://www.linkedin.com/in/nickole-alves-4ab057369/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-2E8B57?style=for-the-badge&logo=linkedin&logoColor=white">
